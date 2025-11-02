@@ -1,4 +1,4 @@
-# Personal Finance: Financial Plan (Excel + Analysis)
+# Personal Finance: Wholelife Financial Plan (Excel + Analysis)
 
 ## About this repo
 This repository contains my personal finance analysis and the Excel workbook I use to model the plan. The goal is practical: make assumptions explicit, show how cashflows and balance sheets evolve, run simple Monte Carlo scenarios, and produce clear recommendations you can reuse or adapt.
