@@ -6,7 +6,7 @@ This README explains what's included, how to use the files, the main findings, a
 
 ---
 ## Repository contents
-* `Analysis.docx`: full written analysis with profile, financial goals, assumptions, traditional & holistic balance sheets, cashflow statements, budget, asset allocation by life stage, Monte Carlo results, insurance analysis, and recommendations.
+* `Analysis.pdf`: full written analysis with profile, financial goals, assumptions, traditional & holistic balance sheets, cashflow statements, budget, asset allocation by life stage, Monte Carlo results, insurance analysis, and recommendations.
 * `Calculation.xlsx`: Excel workbook with all calculations, inputs and outputs (assumptions, balance sheets, cashflow, Monte Carlo, allocation tables, charts). Use Excel (recommended) or Excel Online / Google Sheets (note: some formulas may not behave identically).
 
 ---
